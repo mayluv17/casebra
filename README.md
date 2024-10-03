@@ -1,6 +1,8 @@
 # CaseCobra - A Modern Fullstack E-Commerce Shop for Custom Phone Cases
 
-Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
+Built with the Next.js 14 
+Postgres, TypeScript, Tailwind & Kinde Auth, Resend
+Stripe, uploadThing
 
 
 ## Features
@@ -19,3 +21,4 @@ Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Aut
 - 100% written in TypeScript
 
 
+view demo [here](http://casebra-a6wf.vercel.app)
